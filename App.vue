@@ -24,7 +24,7 @@ export default {
   data(){
     return{
       isRouterAlive:true,
-      loadingAlert:"正在加载中......",
+      loadingAlert:"正在加载中...AAAAAAAAAAAAAAAAAAAAA...",
       isShowLoading:false,
     }
   },
